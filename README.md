@@ -48,4 +48,5 @@ Vidhi Patil
 
 Dnyneshwari Markad
 
-## Acknowledgements: We would like to thank all contributors and open source projects that made this project possible.
+## Acknowledgements
+We would like to thank all contributors and open-source projects that made this project possible.
